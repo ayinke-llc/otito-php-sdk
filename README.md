@@ -13,18 +13,8 @@ Should also work with PHP 8.0.
 
 To install the bindings via [Composer](https://getcomposer.org/), add the following to `composer.json`:
 
-```json
-{
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
-    }
-  ],
-  "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
-  }
-}
+```bash
+composer require ayinkellc/otito-php
 ```
 
 Then run `composer install`
