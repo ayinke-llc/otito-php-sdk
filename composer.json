@@ -1,7 +1,7 @@
 {
-    "name": "ayinkellc/otito-php",
+    "name": "ayinkellc/otito-php-sdk",
     "type": "library",
-    "version": "0.1.1",
+    "version": "0.2",
     "keywords": [
         "openapitools",
         "openapi-generator",
